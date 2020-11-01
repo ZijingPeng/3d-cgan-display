@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\Dev\\Miniconda3\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}

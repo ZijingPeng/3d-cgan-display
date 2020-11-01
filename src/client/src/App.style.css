@@ -1,0 +1,14 @@
+/* global styles here */
+
+#app {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* FIXME */
+.ant-btn-image-button-selected {
+  color: #40a9ff;
+  background-color: #fff;
+  border-color: #40a9ff;
+}

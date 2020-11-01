@@ -1,0 +1,7 @@
+{
+    "eslint.enable": false,
+    "files.exclude": {
+        "**/.cache-loader": true,
+        "**/node_modules": true
+    }
+}
